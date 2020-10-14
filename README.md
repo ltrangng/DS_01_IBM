@@ -90,6 +90,31 @@
 
 ### 5. DATABASES AND SQL FOR DATA SCIENCE
 
+**5.1 Introduction to Databases and Basic SQL**
+
+-    *Introduction to Databases*
+
+-    *Basic SQL*
+
+-    *Relational Database Concepts*
+
+**5.2 Advanced SQL**
+
+-    *Advanced SQL*
+
+-    *String Patterns, Ranges, Sorting, and Grouping*
+
+-    *Functions, Sub-Queries, Multiple Tables*
+
+-    *Relational Model Constraints*
+
+**5.3 AAccessing Databases using Python**
+
+-    *Accessing databases using Python*
+
+-    *Using JOIN operations to work with multiple tables*
+
+***
 ### 6. DATA ANALYIS WITH PYTHON
 
 ### 7. DATA VISUALIZATION WITH PYTHON
