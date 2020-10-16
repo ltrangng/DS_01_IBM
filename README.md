@@ -131,6 +131,19 @@
 
 ### 7. DATA VISUALIZATION WITH PYTHON
 
+**7.1 Introduction to Data Visualization Tools**
+
+**7.2 Basic Visualization Tools**
+
+**7.3 Specialized Visualization Tools**
+
+**7.4 Advanced Visualization Tools**
+
+**7.5 Visualizing Geospatial Data**
+
+***
+
+
 ### 8. MACHINE LEARNING WITH PYTHON
 
 ### 9. APPLIED DATA SCIENCE CAPSTONE
