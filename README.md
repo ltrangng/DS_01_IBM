@@ -117,6 +117,18 @@
 ***
 ### 6. DATA ANALYIS WITH PYTHON
 
+**6.1 Importing Datasets**
+
+**6.2 Data Wrangling**
+
+**6.3 Exploratory Data Analysis**
+
+**6.4 Model Development**
+
+**6.5 Model Evaluation and Refinement**
+
+***
+
 ### 7. DATA VISUALIZATION WITH PYTHON
 
 ### 8. MACHINE LEARNING WITH PYTHON
