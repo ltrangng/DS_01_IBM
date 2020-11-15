@@ -146,4 +146,17 @@
 
 ### 8. MACHINE LEARNING WITH PYTHON
 
+
+**8.1 Introduction to Machine Learning**
+
+**8.2 Regression**
+
+**8.3 Classification**
+
+**8.4 Clustering**
+
+**8.5 Recommender Systems**
+
+***
+
 ### 9. APPLIED DATA SCIENCE CAPSTONE
